@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pjlef808/my-contacts-app.git/static/css/main.d2cd0e2a.chunk.css",
+    "main.js": "/pjlef808/my-contacts-app.git/static/js/main.8b50ea38.chunk.js",
+    "main.js.map": "/pjlef808/my-contacts-app.git/static/js/main.8b50ea38.chunk.js.map",
+    "runtime-main.js": "/pjlef808/my-contacts-app.git/static/js/runtime-main.5d30adb8.js",
+    "runtime-main.js.map": "/pjlef808/my-contacts-app.git/static/js/runtime-main.5d30adb8.js.map",
+    "static/js/2.8f88d9ee.chunk.js": "/pjlef808/my-contacts-app.git/static/js/2.8f88d9ee.chunk.js",
+    "static/js/2.8f88d9ee.chunk.js.map": "/pjlef808/my-contacts-app.git/static/js/2.8f88d9ee.chunk.js.map",
+    "index.html": "/pjlef808/my-contacts-app.git/index.html",
+    "static/css/main.d2cd0e2a.chunk.css.map": "/pjlef808/my-contacts-app.git/static/css/main.d2cd0e2a.chunk.css.map",
+    "static/js/2.8f88d9ee.chunk.js.LICENSE.txt": "/pjlef808/my-contacts-app.git/static/js/2.8f88d9ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d30adb8.js",
+    "static/js/2.8f88d9ee.chunk.js",
+    "static/css/main.d2cd0e2a.chunk.css",
+    "static/js/main.8b50ea38.chunk.js"
+  ]
+}
